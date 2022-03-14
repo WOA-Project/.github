@@ -16,16 +16,9 @@ We host several repositories for providing resources for both the LumiaWOA and D
 
 Key projects include:
 
-- UEFI projects / ports:
-  - Lumia950XlPkg (An ARM64 UEFi implementation for the Lumia 950 and 950 XL (ARM32 by default))
-  - SurfaceDuoPkg (An ARM64 UEFI implementation with stock XBL patches for the Surface Duo (1) family of devices)
-
-- Driver repositories:
-  - Lumia-Drivers (Windows Drivers for various Lumia devices for ARM32 & ARM64!)
-  - SurfaceDuo-Drivers (Windows Drivers for Surface Duo (1) family of devices for ARM64)
-
-- Applications:
-  - WOA Dialer (A dialer UWP application designed for use on LumiaWOA)
-  - Chat (A messaging UWP application designed for use on LumiaWOA)
-
+- UEFI projects / ports
+- Driver repositories
+- Applications
 - And many more..!
+
+(See below for a few highlighted projects)
