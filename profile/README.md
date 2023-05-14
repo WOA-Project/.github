@@ -10,8 +10,6 @@ Telegram (LumiaWOA): https://t.me/LumiaWOA
 
 Telegram (DuoWOA): https://t.me/DuoWOA
 
-Forum: https://woaproject.net/
-
 ## Repositories
 
 We host several repositories for providing resources for both the LumiaWOA and DuoWOA projects, as well as several open source projects of various components.
